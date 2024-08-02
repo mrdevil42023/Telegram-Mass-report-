@@ -9,6 +9,10 @@
   <img src="https://telegra.ph/file/54ce23a4b3a150382b13a.jpg">
 
 
+## Disclaimer
+*This tool is for educational purposes only !*
+_Don't use this to take revenge_<br />
+*I will not be responsible for any misuse*
 
 
 _**𝗠𝗔𝗗𝗘 𝗕𝗬 [[𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12))**_
