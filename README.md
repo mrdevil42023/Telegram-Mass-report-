@@ -14,5 +14,3 @@
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
-
-_**𝗠𝗔𝗗𝗘 𝗕𝗬 [[𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12))**_
