@@ -28,7 +28,7 @@ a_aB_s = '\033[2;39m'
 Ba_bS = '\033[2;36m'
 Ya_Bs = '\033[1;34m'
 S_aBs = '\033[1;33m'
-ab = pyfiglet.figlet_format("TG REPORT")
+ab = pyfiglet.figlet_format("TELEGRAM REPORT")
 print(a_bSa+ab)
 def to(s):
     for char in s + "\n":
@@ -37,14 +37,14 @@ def to(s):
         time.sleep(500.0 / 8000)
 
 to(
-    f"\033[31;m TOOL >> \033[1;36mTELEGRAM REPORT SCRIPT\n\033[1;31m DEVELOPER >>\033[1;33m MR DEVIL  \n\033[31;m JOIN >> \033[1;36m @devilbots971  \n")
+    f"\033[31;m TOOL >> \033[1;36mTELEGRAM REPORT SCRIPT\n\033[1;31m DEVELOPER >>\033[1;33m MR DEVIL  \n\033[31;m JOIN >> \033[1;36m 😈😈  \n")
 def R(m,email,num):
  res=requests.get('https://telegram.org/support',headers={"Host": "telegram.org","cache-control": "max-age\u003d0","sec-ch-ua": "\"Google Chrome\";v\u003d\"119\", \"Chromium\";v\u003d\"119\", \"Not?A_Brand\";v\u003d\"24\"","sec-ch-ua-mobile": "?1","sec-ch-ua-platform": "\"Android\"","upgrade-insecure-requests": "1","user-agent":ua(),"accept": "text/html,application/xhtml+xml,application/xml;q\u003d0.9,image/avif,image/webp,image/apng,*/*;q\u003d0.8,application/signed-exchange;v\u003db3;q\u003d0.7","sec-fetch-site": "cross-site","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": "https://www.google.com/","accept-encoding": "gzip, deflate, br, zstd","accept-language": "en-XA,en;q\u003d0.9,ar-XB;q\u003d0.8,ar;q\u003d0.7,en-GB;q\u003d0.6,en-US;q\u003d0.5"}).cookies;stel=res['stel_ssid'];data=f'message={m}&email={email}&phone={num}&setln=';req=requests.post('https://telegram.org/support',data=data,headers={"Host": "telegram.org","cache-control": "max-age\u003d0","sec-ch-ua": "\"Google Chrome\";v\u003d\"119\", \"Chromium\";v\u003d\"119\", \"Not?A_Brand\";v\u003d\"24\"","sec-ch-ua-mobile": "?1","sec-ch-ua-platform": "\"Android\"","upgrade-insecure-requests": "1","origin": "https://telegram.org","content-type": "application/x-www-form-urlencoded","user-agent":ua(),"accept": "text/html,application/xhtml+xml,application/xml;q\u003d0.9,image/avif,image/webp,image/apng,*/*;q\u003d0.8,application/signed-exchange;v\u003db3;q\u003d0.7","sec-fetch-site": "same-origin","sec-fetch-mode": "navigate","sec-fetch-user": "?1","sec-fetch-dest": "document","referer": "https://telegram.org/support","accept-encoding": "gzip, deflate, br, zstd","accept-language": "en-XA,en;q\u003d0.9,ar-XB;q\u003d0.8,ar;q\u003d0.7,en-GB;q\u003d0.6,en-US;q\u003d0.5","cookie":f"stel_ssid={stel}"}).text;print();#print((req.split('class="alert alert-success"><b>')[1].split('<')[0]))
  
  if "Thanks" in req:
   
   
-  print(f'{G}[√]REPORT{E}==>{B} SUCCESS {E}| {G}{E}{B} {G}FROM{E}==> \033[35;m{email}{B} \nTHIS TOOL IS MADE BY @mrdevil12\n')
+  print(f'{G}[√]REPORT{E}==>{B} SUCCESS {E}| {G}{E}{B} {G}FROM{E}==> \033[35;m{email}{B} \nTHIS TOOL IS MADE BY MR DEVIL\n')
  else:
   print("Error Report")
 u=input(
