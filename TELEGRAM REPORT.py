@@ -59,7 +59,7 @@ Thank you for your attention to this matter.
 
 """
 
-names = ["Rakesh","rsmesh","aman","avishek","mohan","Neha","akhilesh","sayam.","robin","rahul","dev","meera","Anushka","akshita","manjeet","manoj","rakhi","rampal","sonu","Subhashree","Lakhan","mohit","mohini","kakoli","prince","karan","sushila","sushil","Krishna","Ankit","prakash"]
+names = ["Rakesh","rsmesh","Aman","avishek","mohan","Neha","akhilesh","sayam.","robin","rahul","dev","meera","Anushka","akshita","manjeet","manoj","rakhi","rampal","sonu","Subhashree","Lakhan","mohit","mohini","kakoli","prince","karan","sushila","sushil","Krishna","Ankit","prakash"]
 
 while True:
  num="+91",randint(9392823620,9994997058)
