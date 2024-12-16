@@ -17,3 +17,7 @@ _Don't use this to take revenge_<br />
 
 # If you facing any problem then contact me [![Telegram](https://img.shields.io/badge/Telegram-%234285F4.svg?logo=telegram&logoColor=white)](http://t.me/mrdevil12)
 
+# 𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡
+## This Script was stopped working now iam working on a new script
+## l request you please do not massage me on telegram.
+
